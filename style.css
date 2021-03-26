@@ -1,11 +1,11 @@
-h1 {
+.main-content__title {
   font-family: PT Serif;
 font-style: normal;
 font-weight: bold;
 font-size: 66px;
 line-height: 87px;
 }
-.abzac {
+.main-content__description {
   font-family: Roboto;
 font-style: normal;
 font-weight: normal;
